@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package oop
 
 class GetterSet(name: String) {
     var name: String = name
@@ -20,8 +20,4 @@ class GetterSet(name: String) {
 class BigName(val title: String) {
     val bigN: String
         get() = title.toUpperCase()
-}
-
-fun main() {
-
 }

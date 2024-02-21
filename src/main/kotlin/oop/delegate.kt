@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package oop
 
 import kotlin.reflect.KProperty
 

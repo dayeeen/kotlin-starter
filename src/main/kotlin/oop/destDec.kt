@@ -1,5 +1,8 @@
-// Destructuring Declarations
+package oop
 
+import oop.DataUser
+
+// Destructuring Declarations
 fun main(){
     val dataUser = DataUser("Dayen", 17)
 
